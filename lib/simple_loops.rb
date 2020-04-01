@@ -24,15 +24,13 @@ def output_array(array)
   end
 end
 
-# def return_string_array(array)
-#   new_array = []
-#   count = 0
-#   while count < array.length do
-#     new_array.push(array[count].to_s)
-#     count +=1
-#   end
-#   return new_array
-# end
-#
-#
-# end
+def return_string_array(array)
+  new_array = []
+  count = 0
+  while count < array.length do
+    new_array.push(array[count].to_s)
+    count +=1
+  end
+  return new_array
+end
+
