@@ -12,7 +12,7 @@ def loop_message_n_times(string,integer)
   count = 1
   while count <= integer
     puts string
-    count +=1 
+    count +=1
   end
 end
 
