@@ -21,6 +21,7 @@ def output_array(array)
   while index <=array.length do
     puts array[index]
     index +=1 
+  end
 end
 
 def return_string_array
