@@ -23,7 +23,7 @@ end
 #     index +=1
 #   end
 # end
-# 
+#
 # def return_string_array(array)
 #   new_array = []
 #   count = 0
@@ -33,6 +33,6 @@ end
 #   end
 #   return new_array
 # end
-# 
-# 
+#
+#
 # end
