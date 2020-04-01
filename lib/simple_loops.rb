@@ -18,13 +18,16 @@ end
 
 def output_array(array)
   index = 0
-  while index <=array.length do
+  while index < array.length do
     puts array[index]
-    index +=1 
+    index +=1
   end
 end
 
-def return_string_array
+def return_string_array(array)
+  new_array = []
+  count = 0
+  while count < array.length
 
 
 end
